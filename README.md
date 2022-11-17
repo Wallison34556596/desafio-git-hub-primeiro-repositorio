@@ -1,3 +1,3 @@
 # desafio-git-hub-primeiro-repositorio
-desafio de projeto
+Repósitorio criado para desáfio de projeto
 ## Links úteis [sintaxe] (http//www.google.com.br)
